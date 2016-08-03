@@ -1,0 +1,83 @@
+#logo{
+	width: 25%;
+	height: 25%;
+}
+
+li{
+	display: inline-block;
+	margin-top: 20px;
+	padding: 0 20px;
+}
+
+.borde-li{
+	border-right: 1px solid black;
+}
+
+.bck{
+	background-image: url("../img/semilla.jpg");
+	height: 450px;
+}
+
+.p{
+	width: 80%;
+	margin-left: 10%;
+}
+
+.p2{
+	width: 70%;
+	margin-left: 15%;
+	text-align: justify;
+}
+
+.bck_metodo{
+	background-image: url(../img/metodo.jpg);
+	background-size: 100%;
+	height: 400px;
+}
+
+.bck_verde{
+	background-image: url(../img/fondo.jpg);
+	height: 400px;
+}
+
+#bck_proyectos{
+	background-color: #339806;
+}
+
+.img_equipo{
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+}
+
+.icono_equipo{
+	width: 25px;
+	height: 25px;
+}
+
+.bck_blog{
+	background-image: url("../img/fondo2.jpg");
+	background-size: 100%;
+}
+
+#pt-50{
+	padding-top: 50%;
+}
+
+#bck_gray{
+	background-color: #555454;
+}
+
+.borde_div{
+	border: 1px solid white;
+}
+
+div.borde_div img{
+	margin-left: 85%;	
+	margin-top: 90px;
+	margin-bottom: 10px;
+}
+
+#bck_silver{
+	background-color: #E1DEDE;
+}
